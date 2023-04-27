@@ -1,0 +1,19 @@
+{
+  "name": "full-marks",
+  "version": "1.0.0",
+  "description": "Record useful information for work and study.",
+  "main": "index.js",
+  "author": "Apawn",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vuepress dev --open src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "markdown-it-katex": "^2.0.3",
+    "vuepress": "^1.7.1",
+    "vuepress-plugin-flowchart": "^1.4.3",
+    "vuepress-plugin-mermaidjs": "^1.8.1"
+  }
+}
