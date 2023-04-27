@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /icon-100.png
-heroText: 满分笔记
+heroImage: /icon.png
+heroText: 学习笔记
 tagline: 记录工作和学习中有用的信息
-actionText: 开卷有益 →
+actionText: 开始 →
 actionLink: /js/ast
 features:
 - title: 精心组织

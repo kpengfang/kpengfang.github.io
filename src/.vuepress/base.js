@@ -1,3 +1,3 @@
 module.exports = {
-  base: '/full-marks/'
+  base: '/learning-record/'
 }

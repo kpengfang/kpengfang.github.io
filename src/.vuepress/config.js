@@ -20,10 +20,10 @@ module.exports = {
     ['link', { rel: 'stylesheet', href: '/katex-css/katex.min.css' }],
     ['link', { rel: "stylesheet", href: "/katex-css/github-markdown.min.css" }]
   ],
-  title: '满分笔记',
-  description: '记录工作和学习中有用的信息',
+  title: '学习记录',
+  description: '',
   themeConfig: {
-    logo: '/icon-100.png',
+    logo: '/icon.png',
     nav,
     sidebar,
     sidebarDepth: 0
